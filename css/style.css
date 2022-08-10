@@ -1,0 +1,16 @@
+header{
+    background-color: lightblue;
+}
+header nav ul > li{
+    display: none;
+    color: lightcoral;
+}
+
+main{
+    background-color: lightcoral;
+}
+
+footer{
+    background-color: lightblue;
+    color: lightcoral;
+}
