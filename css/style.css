@@ -1,12 +1,19 @@
-header{
+*{
+    margin: 0;
+    padding: 0;
+}
+#my-header{
     background-color: lightblue;
 }
-header nav ul > li{
-    display: none;
+#my-header nav ul li{
+    display: inline-block;
     color: lightcoral;
+    text-decoration: none;
 }
 
 main{
+    width: 100%;
+    height: 800px;
     background-color: lightcoral;
 }
 
