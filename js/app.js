@@ -25,9 +25,9 @@ const array_questions = [];
 
 let q1 = prompt("Are you a software engineer ?")
 array_questions[0] = q1
-let q2 = prompt("Are you tooler than 1.80cm ?")
+let q2 = prompt("Are you taller than 1.80cm ?")
 array_questions[1] = q2
-let q3 = prompt("you marrie ?")
+let q3 = prompt("you married ?")
 array_questions[2] = q3
 
 
